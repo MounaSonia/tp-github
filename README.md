@@ -1,1 +1,1 @@
-# tp-githup
+# tp-github
